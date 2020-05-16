@@ -63,4 +63,4 @@ dependencies: [
 ---
 ## License
 
-BBToast is released under the MIT license. [See LICENSE](https://github.com/bibinjacobpulickal/BBLoader/blob/master/LICENSE) for details.
+BBToast is released under the MIT license. [See LICENSE](https://github.com/bibinjacobpulickal/BBToast/blob/master/LICENSE) for details.
