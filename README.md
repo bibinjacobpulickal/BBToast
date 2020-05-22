@@ -1,6 +1,6 @@
 # BBToast
 
-Simple toast with text using BBToast. BBToast is a light-weight minimal looking toast build on top of UIKit for iOS and tvOS. This doesn't obsruct user interaction like while showing a UIAlertController. Package is compiled using Xcode 11.0 on MacOS 10.15 using Swift 5.1
+Simple toast with text using BBToast. BBToast is a light-weight minimal looking toast build on top of UIKit for iOS and tvOS. This doesn't obsruct user interaction like while showing a UIAlertController. Package is compiled using Xcode 11.0 on MacOS 10.15 using Swift 5.2.2 compiler.
 
 ---
 
@@ -8,7 +8,7 @@ Simple toast with text using BBToast. BBToast is a light-weight minimal looking 
 ![Platform](https://img.shields.io/badge/Platform-iOS%20|%20iPadOS%20|%20tvOS-blue.svg?style=flat)
 [![iOS](https://img.shields.io/badge/iOS-8.0+-green.svg?style=flat)](https://www.apple.com/in/macos/catalina/)
 [![Xcode](https://img.shields.io/badge/XCode-11.0-blue.svg)](https://developer.apple.com/xcode/)
-[![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![Swift](https://img.shields.io/badge/Swift-5.2.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
 ---
 ## Code
